@@ -1,0 +1,59 @@
+nombre_del_libro=()
+
+registrar_libros = []
+
+
+
+
+def registrar():
+    try:
+        titulo=input("ingresar el nombre del libro ")
+        autor= input("ingresra el autor del libro ")
+        año_de_la_publicacion=input("inegrsar el año de la publicacion ")
+        SKU = input ("ingresar el edentificador de libro")
+titulo = "" or autor ==""or año_de_la_publicacion== or SKU ="":
+libros ={}
+"titulo"
+"autor"
+"año_de_la_publicacion"
+"SKU": SKU
+
+
+{}
+
+
+registrar_libros= append(libros)
+print("error en el dato ingresado ")
+def listar ():
+    if registrar_libros=="":
+       print("sin riego de error")
+     else
+        for libros if registrar_libros =
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
